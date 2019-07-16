@@ -15,6 +15,7 @@ git flow **feature** finish nome-da-feature
 
 ## Para criar um hotfix
 git flow **hotfix** start nome-da-fix
+> cria um branch de hotfix apartir do **master**
 
 ## Quando terminar o hotfix
 git flow **hotfix** finish nome-da-fix
