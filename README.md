@@ -27,6 +27,8 @@ git flow **release** start 1.0.0
 
 ##quando terminar a Release
 git flow **release** finish '1.0.0'
+
+###fim
  
 
 
